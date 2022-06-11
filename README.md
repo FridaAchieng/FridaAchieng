@@ -1,7 +1,7 @@
 
-# Hey👋, I'm @FridaAchieng
+# Hey👋, I'm Frida
 
-Welcome to my github page.
+Welcome to my page !
 
 ## Technical Skills
 - ### Programming Languages :
