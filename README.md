@@ -1,7 +1,7 @@
 
 # Hey👋, I'm Frida
 
-Welcome to my page !
+Welcome to my Github page !
 
 ## Technical Skills
 - ### Programming Languages :
