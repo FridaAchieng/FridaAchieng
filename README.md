@@ -5,11 +5,11 @@ Welcome to my Github page !
 
 ## Technical Skills
 - ### Programming Languages :
-      Python,SQL
+      Python, SQL
 - ### Data Analysis : 
-      Numpy,Pandas,Matplotlib,Seaborn,Plotly
+      Numpy, Pandas, Matplotlib, Seaborn, Plotly
 - ### Data Visualization : 
-      MS Excel,Tableau,PowerBI
+      MS Excel, Tableau, PowerBI
 - ### ML : 
       Scikit Learn
 
