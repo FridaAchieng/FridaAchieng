@@ -5,7 +5,7 @@ Welcome to my Github page !
 
 ## Technical Skills
 - ### Programming Languages :
-      Python, SQL
+      Python, R, SQL
 - ### Data Analysis : 
       Numpy, Pandas, Matplotlib, Seaborn, Plotly
 - ### Data Visualization : 
