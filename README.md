@@ -1,7 +1,8 @@
 
-# Hey👋, I'm Frida
 
-Welcome to my Github page !
+# Welcome to my Github page !
+
+My name is Frida. I'm a Healthcare proffesional interested in data. 
 
 ## Technical Skills
 - ### Programming Languages :
