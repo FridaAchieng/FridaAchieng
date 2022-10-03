@@ -4,7 +4,7 @@
 
 Welcome to my Github page.
 
-I'm a Healthcare proffesional interested in data. 
+I'm a Healthcare professional interested in data. 
 
 ## Technical Skills
 - ### Programming Languages :
