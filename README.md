@@ -9,7 +9,9 @@ A healthcare professional passionate about data.
 
 |Skills | Libraries|
 |:------|:--------|
-| Python| Numpy,Pandas,Matplotlib,Seaborn|
+| Programming | Python, R|
+|Data Visualization | Matplotlib,Seaborn, MS Excel, Tableau, Power BI|
+|Machine Learning | Scikit Learn|
 
 ## Connect
 
