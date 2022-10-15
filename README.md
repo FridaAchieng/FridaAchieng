@@ -1,20 +1,28 @@
+![I am GitHub Readme Generator's creator](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://www.analyticsinsight.net/wp-content/uploads/2021/05/Analytics-1440x564_c.jpg)
+
+# Frida Achieng
 
 
-### Hello👋🏼 .
+A healthcare professional passionate about data.
 
-Welcome to my Github page.
+## Skills and Experience
+* Python
+* SQL
+* MS Excel
+* Power BI
+* Tableau
 
-I'm a Healthcare professional interested in data. 
 
-## Technical Skills
-- ### Programming Languages :
-      Python, R, SQL
-- ### Data Analysis : 
-      Numpy, Pandas, Matplotlib, Seaborn, Plotly
-- ### Data Visualization : 
-      MS Excel, Tableau, PowerBI
-- ### ML : 
-      Scikit Learn
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FridaAchieng)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/frida-achieng/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FridaAchieng&show_icons=true)  
+
+
+
+
 
 <!---
 FridaAchieng/FridaAchieng is a special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
