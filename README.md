@@ -6,12 +6,10 @@
 A healthcare professional passionate about data.
 
 ## Skills and Experience
-* Python
-* SQL
-* MS Excel
-* Power BI
-* Tableau
 
+|Skills | Libraries|
+|:------|:--------|
+| Python| Numpy,Pandas,Matplotlib,Seaborn|
 
 ## Connect
 
