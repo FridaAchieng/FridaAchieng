@@ -23,6 +23,10 @@ A healthcare professional passionate about data.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FridaAchieng&show_icons=true)  
 
 
+![](https://komarev.com/ghpvc/?username=FridaAchieng)
+
+
+
 
 
 
