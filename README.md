@@ -13,10 +13,12 @@ A healthcare professional passionate about data.
 * Tableau
 
 
+## Connect
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FridaAchieng)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/frida-achieng/) 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FridaAchieng)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/frida-achieng/)  
+## Github Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FridaAchieng&show_icons=true)  
 
