@@ -9,11 +9,11 @@ A healthcare professional passionate about data.
 
 |Skills | Libraries|
 |:------|:--------|
-| Programming | Python, R|
+|Languages | Python, R|
 |Data Visualization | Matplotlib,Seaborn, MS Excel, Tableau, Power BI|
 |Machine Learning | Scikit Learn|
 
-## Connect
+## Find Me
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FridaAchieng)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/frida-achieng/) 
