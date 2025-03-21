@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://www.analyticsinsight.net/wp-content/uploads/2021/05/Analytics-1440x564_c.jpg)
+
 
 # Frida Achieng
 
